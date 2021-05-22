@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sample
 test
+=======
+healloe
+>>>>>>> exp
